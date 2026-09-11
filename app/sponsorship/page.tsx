@@ -96,7 +96,7 @@ export default function SponsorshipPage() {
                 A secure checkout link has been sent to <span className="font-bold text-slate-900">{sponsorEmail}</span> for tracking code <span className="font-mono text-[#DC2626] font-bold">{trackingCode}</span>.
               </p>
               <div className="bg-white p-4 rounded-xl border border-slate-200 font-mono text-xs text-slate-600 break-all select-all">
-                https://cannontravels.com/pay/{trackingCode}
+                https://cannongo.top/pay/{trackingCode}
               </div>
               <button 
                 onClick={() => setIsLinkGenerated(false)}

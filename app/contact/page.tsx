@@ -69,7 +69,7 @@ export default function ContactPage() {
                       Secure Support Email
                     </span>
                     <span className="text-white font-medium text-[15px]">
-                      support@cannontravels.com
+                      support@cannongo.top
                     </span>
                   </div>
                 </div>
